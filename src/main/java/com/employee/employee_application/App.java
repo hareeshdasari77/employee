@@ -8,6 +8,10 @@ import com.maven.service.EmployeeServiceImpl;
 
 public class App 
 {
+	public void demo()
+	{
+		System.out.println("bug-1");
+	}
     public static void main( String[] args )
     {
        
